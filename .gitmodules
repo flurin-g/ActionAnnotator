@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/flurin-g/actionannotator-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/flurin-g/actionannotator-backend
