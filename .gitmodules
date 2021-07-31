@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/flurin-g/actionannotator-backend
+[submodule "actiondetector"]
+	path = actiondetector
+	url = https://github.com/flurin-g/actiondetector
